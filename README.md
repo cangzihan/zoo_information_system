@@ -3,3 +3,8 @@ This subject requires writing a Python program to manage animal information. A c
 
 ## Requirements
 - Environment: Python3
+
+## Usage
+Run `gui.py` to start the system GUI
+
+Account information stores in `account.json`
